@@ -1,0 +1,12 @@
+{
+    "dpTreatmentAgentAppPort" : "8080",
+    "dpMountStorageAppPort" : "8081",
+    "treatmentControllerPort" :"8001",
+    "dpMountStorageResultEP" :"/getDPStorageMountResult",
+    "dpTreatmentResultEP" :"/getDPTreatmentResult",
+    "timeout" :"600000",
+    "jsonContentType" : "application/json",
+    "xmlContentType" : "application/xml",
+    "logDir" : "logs",
+    "logFileName" : "DPTreatmentAgent.log"
+}

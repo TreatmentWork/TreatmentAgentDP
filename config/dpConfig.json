@@ -1,0 +1,5 @@
+{
+    "dpServicePort" : "9098",
+    "dpServiceEP" :"/",
+    "timeout" :"600000"
+}
